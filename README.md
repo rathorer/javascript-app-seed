@@ -14,7 +14,8 @@ How to start:
 In case you see this error:
 Error: Could not find a suitable bundler!
 
-Just install browserify globally (Below link).
+Just install browserify globally (this link).
+
 https://github.com/chrisdickinson/beefy/issues/70
 
 
