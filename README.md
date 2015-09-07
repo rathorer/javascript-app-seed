@@ -11,11 +11,15 @@ How to start:
  It will install the dev dependencies and create the node_module folder
 3. run npm start
  It will start the app, if browser doesn't open automatically, visit http://localhost:9966/ 
+
 In case you see this error:
 Error: Could not find a suitable bundler!
 
-Just install browserify globally (below link).
 
+Just install browserify globally:
+npm install -g browserify
+
+refer below link:
 https://github.com/chrisdickinson/beefy/issues/70
 
 
