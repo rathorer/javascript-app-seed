@@ -9,7 +9,8 @@ How to start:
 2. Open the command prompt
 2. run npm install
  It will install the dev dependencies and create the node_module folder
-3. run npm start
+3. run 
+```npm start```
  It will start the app, if browser doesn't open automatically, visit http://localhost:9966/ 
 
 In case you see this error:
